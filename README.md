@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @CYskes
-- 👀 I’m interested in learning software development, currently looking into low end and high end.
-- 🌱 I’m currently learning CPP
-- 💞️ I’m looking to collaborate on beginner projects
-- 📫 How to reach me 
-    - email: connor.yskes@gmail.com
+- Hi, I’m @CYskes
+- I’m interested in learning software development
+- I’m currently learning C++
+- I’m looking to collaborate on beginner projects and open source
+
 
 <!---
 CYskes/CYskes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
